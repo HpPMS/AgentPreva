@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-rayoflightthemes.com	TRUE	/wordpress-themes/ainexa-wordpress-theme/	FALSE	1999999999	woocommerce_items_in_cart	1
-rayoflightthemes.com	TRUE	/wordpress-themes/ainexa-wordpress-theme/	FALSE	1999999999	wp_woocommerce_session_07814fbd8349f4befe87db681a1bb8aa	t_9c40c9e899554999a40da4eb914c28%7C1761239631%7C1761153231%7C%24generic%24y_s9GV27B3QAYL8NTbtTj2K0lhZm7CUAyax23T1S
-rayoflightthemes.com	TRUE	/wordpress-themes/ainexa-wordpress-theme/	FALSE	1999999999	woocommerce_cart_hash	fca93d186a8d14c79de1c8316db0029a
-rayoflightthemes.com	TRUE	/	FALSE	1999999999	VC-NoCache	1
-
